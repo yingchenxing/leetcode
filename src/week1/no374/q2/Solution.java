@@ -1,4 +1,4 @@
-package match.no374.q2;
+package week1.no374.q2;
 
 class Solution {
     public int numberOfBeams(String[] bank) {

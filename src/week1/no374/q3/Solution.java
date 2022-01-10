@@ -1,4 +1,4 @@
-package match.no374.q3;
+package week1.no374.q3;
 
 import java.util.Arrays;
 

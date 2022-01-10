@@ -1,6 +1,4 @@
-package match.no374.q4;
-
-import java.util.*;
+package week1.no374.q4;
 
 class Solution {
 //    public int maximumInvitations(int[] favorite) {

@@ -1,4 +1,4 @@
-package match.no374.q1;
+package week1.no374.q1;
 
 class Solution {
     public boolean checkString(String s) {
